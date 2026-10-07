@@ -1,0 +1,14 @@
+/Users/raketa_gaming/30TaskNasledovanya/task22/bin/Debug/net10.0/Task22
+/Users/raketa_gaming/30TaskNasledovanya/task22/bin/Debug/net10.0/Task22.deps.json
+/Users/raketa_gaming/30TaskNasledovanya/task22/bin/Debug/net10.0/Task22.runtimeconfig.json
+/Users/raketa_gaming/30TaskNasledovanya/task22/bin/Debug/net10.0/Task22.dll
+/Users/raketa_gaming/30TaskNasledovanya/task22/bin/Debug/net10.0/Task22.pdb
+/Users/raketa_gaming/30TaskNasledovanya/task22/obj/Debug/net10.0/Task22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raketa_gaming/30TaskNasledovanya/task22/obj/Debug/net10.0/Task22.AssemblyInfoInputs.cache
+/Users/raketa_gaming/30TaskNasledovanya/task22/obj/Debug/net10.0/Task22.AssemblyInfo.cs
+/Users/raketa_gaming/30TaskNasledovanya/task22/obj/Debug/net10.0/Task22.csproj.CoreCompileInputs.cache
+/Users/raketa_gaming/30TaskNasledovanya/task22/obj/Debug/net10.0/Task22.dll
+/Users/raketa_gaming/30TaskNasledovanya/task22/obj/Debug/net10.0/refint/Task22.dll
+/Users/raketa_gaming/30TaskNasledovanya/task22/obj/Debug/net10.0/Task22.pdb
+/Users/raketa_gaming/30TaskNasledovanya/task22/obj/Debug/net10.0/Task22.genruntimeconfig.cache
+/Users/raketa_gaming/30TaskNasledovanya/task22/obj/Debug/net10.0/ref/Task22.dll
